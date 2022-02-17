@@ -1,0 +1,8 @@
+start
+READ a,b
+COMPUTE a*a
+        b*b
+OBTAIN a^2,b^2
+COMPUTE a^2+b^2=c
+DISPLAY c
+stop
