@@ -1,0 +1,9 @@
+start
+READ a,b,c
+IF a>b go to 2 ELSE go to 3
+IF a>c end ELSE go to 4
+IF b>c go to 5 ELSE end
+IF b>a end
+IF c>a end
+DISPLAY x,y,z "ascending order"
+stop 
