@@ -1,0 +1,9 @@
+start
+ENTER n
+      sum=0
+COMPUTE n+sum=count
+IF COUNT<0 DISPLAY count THEN END
+ELSE COMPUTE n+sum=count
+IF count<0
+DISPLAY count
+stop
